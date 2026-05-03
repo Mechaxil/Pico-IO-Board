@@ -3,8 +3,10 @@
 A clean, minimal Raspberry Pi Pico-compatible breakout board designed for easy access to all GPIO pins.
 
 <p align="center">
-  <img src="assets/render.png" alt="Pico IO Board v1.1" width="300"/>
+  <img src="assets/render.png" alt="Render" width="300" height="350" style="margin-right: 10px;"/>
+  <img src="assets/Pico_IO_board.jpg" alt="Real" width="350" />
 </p>
+
 
 ## Overview
 
@@ -15,7 +17,7 @@ Designed with usability, readability, and clean aesthetics in mind.
 Perfect for prototyping, education, embedded development, and quick testing setups.
 
 This board is available for purchase via the Mechaxil webshop:
-[Mechaxil Webshop](https://mechaxil.com/products/pico-io-board-v1-0?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web)
+[Mechaxil Webshop](https://mechaxil.com/products/pico-io-board)
 
 ## Features
 
@@ -48,9 +50,21 @@ Condition:
 - Any modifications to the design must also be shared under the same license  
 
 > [!IMPORTANT]
-> ## Trademark Notice
+>
+> ## Trademark & Branding Notice
+>
 > "Mechaxil" and the Mechaxil logo are trademarks of Mechaxil (Závoczki Attila e.v.).
 > This license does not grant permission to use the Mechaxil name, logo, or branding for commercial or promotional purposes without prior written permission.
+>
+> If you manufacture, distribute, or sell this design (modified or unmodified):
+>
+> * You must remove the Mechaxil logo
+> * You must remove any "Approved by Mechaxil" markings
+> * You must not imply that your product is an official Mechaxil product
+> * You must clearly state: "Original design by Mechaxil"
+>
+> This ensures transparency and avoids confusion between official Mechaxil products and third-party derivatives.
+
 
 > [!IMPORTANT]
 > ## Raspberry Pi Disclaimer
